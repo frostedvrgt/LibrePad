@@ -1,12 +1,12 @@
-﻿﻿<p align="center">
+<p align="center">
   <a href="#"><img src="LibrePad.png"></a>
 </p>
 
 ---
 
 <p align="center">
-	<a href="https://github.com/iiDk-the-actual/LibrePad/releases"><img src="https://img.shields.io/github/v/release/iiDk-the-actual/LibrePad?label=version&style=for-the-badge"></a>
-	<a href="https://github.com/iiDk-the-actual/LibrePad/releases/latest"><img src="https://img.shields.io/github/downloads/iiDk-the-actual/LibrePad/latest/LibrePad.dll?style=for-the-badge"></a>
+	<a href="https://github.com/frostedvrgt/LibrePad/releases"><img src="https://img.shields.io/github/v/release/frostedvrgt/LibrePad?label=version&style=for-the-badge"></a>
+	<a href="https://github.com/frostedvrgt/LibrePad/releases/latest"><img src="https://img.shields.io/github/downloads/frostedvrgt/LibrePad/latest/LibrePad.dll?style=for-the-badge"></a>
 	<a href="https://discord.gg/iidk"><img src="https://img.shields.io/discord/1170093288557129748?label=discord&style=for-the-badge&color=blueviolet"></a>
 </p>
 
@@ -29,7 +29,7 @@ I believe that information should be free and public for anyone to access withou
 
 # 💾 Installation
 
-- Download the release from [here](https://github.com/iiDk-the-actual/LibrePad/releases/latest)
+- Download the release from [here](https://github.com/frostedvrgt/LibrePad/releases/latest)
 - Drag the file `LibrePad.dll` to your plugins folder
 - Start Gorilla Tag if needed
 
