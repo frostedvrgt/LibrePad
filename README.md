@@ -7,7 +7,7 @@
 <p align="center">
 	<a href="https://github.com/frostedvrgt/LibrePad/releases"><img src="https://img.shields.io/github/v/release/frostedvrgt/LibrePad?label=version&style=for-the-badge"></a>
 	<a href="https://github.com/frostedvrgt/LibrePad/releases/latest"><img src="https://img.shields.io/github/downloads/frostedvrgt/LibrePad/latest/LibrePad.dll?style=for-the-badge"></a>
-	<a href="https://discord.gg/iidk"><img src="https://img.shields.io/discord/1170093288557129748?label=discord&style=for-the-badge&color=blueviolet"></a>
+	<a href="https://discord.gg/gjzpteDNmd"><img src="https://img.shields.io/discord/1503102616568070314?label=discord&style=for-the-badge&color=blueviolet"></a>
 </p>
 
 ---
